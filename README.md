@@ -2,7 +2,7 @@
 - 👀 My interests and hobby span from infrastructure, software, to wood working and architecture.
 - 🌱 I’m currently learning "How to raise a small human".
 - 💞️ I’m looking to collaborate on python based building management and embeded STM32 projects.
-- 📫 How to reach me ... I don't even know how to reach me ...
+- 📫 How to reach me ... Open a `Discussions` thread!
 
 <!---
 rmackinnon/rmackinnon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
